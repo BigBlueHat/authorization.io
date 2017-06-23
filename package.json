@@ -77,10 +77,10 @@
       "font-awesome",
       "jquery",
       "jsonld-signatures",
-      "node-forge",
-      "uuid",
       "lodash",
-      "ng-error"
+      "ng-error",
+      "node-forge",
+      "uuid"
     ],
     "systemjs": {
       "packages": {
